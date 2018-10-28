@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP885.h
-Description: CP885 (VGA Code Page 885) font for DisplayCore
+Description: CP885 (VGA Code Page 885)
