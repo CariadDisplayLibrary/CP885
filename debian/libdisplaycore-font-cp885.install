@@ -1,2 +1,2 @@
-CP885.cpp libraries/DisplayCore/CP885
-CP885.h libraries/DisplayCore/CP885
+src libraries/DisplayCore/CP885
+library.properties libraries/DisplayCore/CP885
